@@ -1,3 +1,14 @@
-CSVFILENAME,ID
-aire-contaminantes,1
-aire-estaciones,2
+id,csv_namefile
+1,aire-contaminantes
+2,aire-estaciones
+3,aire-metodos
+4,calidadaire_14
+5,calidadaire_15
+6,calidadaire_16
+7,calidadaire_17
+8,calidadaire_18
+9,calidadaire_19
+10,calidadaire_20
+11,calidadaire_21
+12,calidadaire_22
+13,manuales-hasta-2022
